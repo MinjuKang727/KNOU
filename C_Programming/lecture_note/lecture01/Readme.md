@@ -308,7 +308,7 @@ void f()
     }
     ```
 
-    ![세미콜론을 붙이지 않아 발생한 구문 오류 수정 결과 Hello~가 정상적으로 출력된 것을 확인할 수 있습니다.](/KNOU/C_Programming/lecture01/image/error_correction_result.png)
+    ![세미콜론을 붙이지 않아 발생한 구문 오류 수정 결과 Hello~가 정상적으로 출력된 것을 확인할 수 있습니다.](image/error_correction_result.png)
 
 <br>
 
