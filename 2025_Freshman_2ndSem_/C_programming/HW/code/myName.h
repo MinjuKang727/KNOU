@@ -1,0 +1,1 @@
+#define Hello printf("학번: 202334-153914\n이름: 강민주\n")
