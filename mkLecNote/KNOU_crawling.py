@@ -59,8 +59,8 @@ try:
     pw_input = wait.until(EC.presence_of_element_located((By.NAME, 'password')))
 
     # 환경변수 설정한 아이디, 비밀번호 가져오기
-    KNOU_ID = os.environ.get('KNOU_ID', 'minjukang727')
-    KNOU_PW = os.environ.get('KNOU_PW', '1m0nTOP^930')
+    KNOU_ID = os.environ.get('KNOU_ID', 'U-KNOU ID')
+    KNOU_PW = os.environ.get('KNOU_PW', 'U-KNOU PW')
 
     # 5. 아이디와 비밀번호 입력
     id_input.send_keys(KNOU_ID)
