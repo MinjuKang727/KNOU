@@ -1,0 +1,32 @@
+# TITLE_KOR
+> LECTURE_BASIC_INFO  
+> LECTURE_WEEKS  
+
+<br><br>
+
+## 강의 개요
+> LECTURE_BODY_INFO  
+
+<br>
+<div style="text-align:right;">LECTURE_BODY_PRODUCER</div>
+
+<br><br>
+
+---
+
+## 교수 소개
+> PROFESSOR_INFO  
+
+<br><br>
+
+---
+
+## 교재 정보
+<table>BOOK_INFO</table>
+
+<br><br>
+
+---
+
+## 강의 목차
+> LECTURE_LIST  
