@@ -61,10 +61,11 @@ class Article:
         print(f"'{self.title_kor}'의 강의 폴더 만들기를 시작합니다.")
         
         IMG_FOLDER = "IMGs"
-        HOMEWORK_FOLDER = "HW"
+        # HOMEWORK_FOLDER = "HW"
         
         # 경로를 현재 강의 폴더로 수정
-        fNames = [IMG_FOLDER, HOMEWORK_FOLDER]
+        # fNames = [IMG_FOLDER, HOMEWORK_FOLDER]
+        fNames = [IMG_FOLDER]
 
         for fName in fNames:
             os.makedirs(f"{self.PATH}/{fName}", exist_ok=True)
