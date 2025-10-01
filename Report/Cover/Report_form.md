@@ -1,0 +1,17 @@
+<h1 align="center" style="font-weight:bold">YEAR학년도 SEMESTER학기 <span style="color:blue">(온라인 제출용)</span></h1>
+
+○ &nbsp;교과목명: TITLE  
+○ &nbsp;학번: STUDENT_NUMBER   
+○ &nbsp;성명: STUDENT_NAME   
+○ &nbsp;연락처: TELEPHONE_NUMBER   
+○ &nbsp;과제유형(공통형/지정형): REPORT_TYPE   
+
+<span style="color:rgb(255,0,102);font-size:10px;"> ※ 과제물 표지 등에 개인정보(주민번호, 운전면허번호)가 포함될 경우 삭제처리로 과제물을 다시 제출해야 하는 경우가 발생할 수 있습니다.</span>
+
+---
+
+  - 이하 과제 작성  
+
+<br>
+
+※ 표지는 A4용지 사용  
