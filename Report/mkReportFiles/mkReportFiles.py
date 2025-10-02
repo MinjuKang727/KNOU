@@ -100,7 +100,7 @@ for title, report_type in zip(ARTICLE_TITLE_LIST, REPORT_TYPE_LIST):
     for key, value in report_info.items():
         content = content.replace(key, value)
 
-    report_name = f"{report_info[ASSIGNMENTS]},{title},{report_info[STUD_NUM]}.md"
+    report_name = f"{report_info[ASSIGNMENTS]}_{title}_{report_info[STUD_NUM]}.md"
     report_path = f"{path}/{report_name}"
     if not os.path.exists(report_name):
         with open(report_path, 'w', encoding='utf-8') as f:
